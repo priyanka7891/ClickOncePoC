@@ -25,7 +25,7 @@
     <InstallUrl>https://raw.githubusercontent.com/priyanka7891/ClickOncePoC/master/WPFClickOncePoC/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/priyanka7891/ClickOncePoC/master/WPFClickOncePoC/</UpdateUrl>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
