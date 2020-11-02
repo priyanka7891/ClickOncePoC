@@ -22,10 +22,10 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>true</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://raw.githubusercontent.com/priyanka7891/ClickOncePoC/master/WPFClickOncePoC/</InstallUrl>
-    <UpdateUrl>https://raw.githubusercontent.com/priyanka7891/ClickOncePoC/master/WPFClickOncePoC/</UpdateUrl>
+    <InstallUrl>https://raw.githubusercontent.com/priyanka7891/ClickOncePoC/master/WPFClickOncePoC/WPFClickOncePoC/publish/Application%2520Files/</InstallUrl>
+    <UpdateUrl>https://raw.githubusercontent.com/priyanka7891/ClickOncePoC/master/WPFClickOncePoC/WPFClickOncePoC/publish/Application%2520Files/</UpdateUrl>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
-    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationRevision>4</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
